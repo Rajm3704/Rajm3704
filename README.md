@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajm3704
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on Web Development
+- 💞️ I’m looking to collaborate on Web Development Project
 - 📫 you can reach me on raj37mahajan@gmail.com
 
 <!---
