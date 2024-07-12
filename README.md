@@ -31,4 +31,4 @@
 <a href="" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="50" /></a>
 </div>
 
-<p style"margin: 12px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajm3704&show_icons=true&locale=en&layout=compact" alt="rajm3704"/></p>
+<p style"margin: 20px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajm3704&show_icons=true&locale=en&layout=compact" alt="rajm3704"/></p>
