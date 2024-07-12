@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itisraj37" target="blank"><img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="itisraj37" height="30" width="40" /></a>
+<a href="https://twitter.com/itisraj37" target="blank"><img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="itisraj37" height="30" width="30" /></a>
 <a href="https://instagram.com/rajmahajan_37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajmahajan_37" height="30" width="40" /></a>
 </p>
 
