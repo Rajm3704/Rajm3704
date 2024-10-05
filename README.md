@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajm3704" alt="rajm3704" /></a> </p>-->
 
-- 👀I'm interested in *Full Stack Development**
+- 👀I'm interested in **Full Stack Development**
 
 - 🌱 I’m currently learning **MERN Stack**
 
